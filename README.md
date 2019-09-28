@@ -39,3 +39,4 @@ npm install redux react-redux --save
 - The whole state of your app is stored in an object(store)
 - if you want to change thd data inside of this object you need to 'dispatch'(send) an action
 - You will send this actions to a **reducer** and this reducer will change the object for you.
+
